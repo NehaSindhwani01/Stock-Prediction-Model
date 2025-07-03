@@ -35,9 +35,9 @@ A Python-based application that allows users to **predict stock prices** using *
 
 
 ## 📷 Screenshots
->[!Screeshot1](AAPL_chart.png)
->[!Screeshot1](MSFT_chart.png)
->[!Screeshot1](GOOG_chart.png)
+>![Screeshot1](AAPL_chart.png)
+>![Screeshot2](MSFT_chart.png)
+>![Screeshot3](GOOG_chart.png)
 
 ## 📦 Installation
 
